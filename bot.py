@@ -7,7 +7,7 @@ from telegram.ext import Application, ChatJoinRequestHandler, CommandHandler, Co
 #   НАСТРОЙКИ — ИЗМЕНИ ЭТО ПОД СЕБЯ
 # ===============================================
 
-BOT_TOKEN = "8702681196:AAGhWA8ZBjvuWMCUtAlJxbPWQozOvFwHrGg"
+BOT_TOKEN = "8702681196:AAGHWA8ZBjvuWMCUtAlJxbPWQozOvFwHrGg"
 CHANNEL_ID = -1002437555732
 
 # ===============================================
